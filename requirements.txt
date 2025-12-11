@@ -1,0 +1,12 @@
+numpy
+matplotlib
+pandas
+scipy
+tqdm
+nbconvert
+openpyxl
+lxml
+pyarrow
+fastparquet
+ipykernel
+scikit-learn
